@@ -1,0 +1,48 @@
+.banner {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.home-icons {
+  object-fit: cover;
+  padding: 0 0 40px 0;
+  width: 100%;
+  height: 100%;
+}
+
+.home-products {
+  object-fit: fill;
+  width: 100%;
+  height: 100%;
+}
+
+.button-more {
+  text-align: center;
+  font: normal normal bold 20px/28px Trebuchet MS;
+  letter-spacing: 0.4px;
+  color: #ffffff;
+  text-transform: lowercase;
+  opacity: 1;
+}
+
+.home-content {
+  padding: 40px 18px 40px 18px;
+}
+
+h1 {
+  text-align: center;
+  font: normal normal bold 31px/40px Trebuchet MS;
+  letter-spacing: 0.62px;
+  color: #389cd6;
+  opacity: 1;
+  padding: 0 0 40px 0;
+}
+
+p {
+  text-align: center;
+  font: normal normal normal 16px/22px Trebuchet MS;
+  letter-spacing: 0.32px;
+  color: #7b7070;
+  opacity: 1;
+}
