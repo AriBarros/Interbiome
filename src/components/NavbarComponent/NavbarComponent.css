@@ -1,0 +1,14 @@
+@media (min-width: 576px) {
+    .nav {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      background-color: #389CD6;
+      color: #FFF;
+    }
+  
+    .nav-link {
+      color: #FFF !important;
+      font: normal normal normal 20px/28px Trebuchet MS !important;
+    }
+  }
