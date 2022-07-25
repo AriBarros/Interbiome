@@ -22,5 +22,5 @@ Hope you enjoy it!
 </p>
 
 <p align="center">
-  <img width="1401" height="700" src="src/docs/desktop.png">
+  <img width="1901" height="909" src="src/docs/desktop.png">
 </p>
