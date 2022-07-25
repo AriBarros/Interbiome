@@ -7,8 +7,9 @@ function Topbar() {
   return (
     <div className="topbar-container">
       <div className="topbar-content">
+        <div className="hidden-div" />
         <MenuIC className="menu-icon" />
-        <img src={LogoImg} />
+        <img alt="" src={LogoImg} />
         <SearchIc />
       </div>
     </div>
