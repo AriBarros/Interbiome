@@ -33,7 +33,7 @@
     -ms-overflow-style: none;
     scrollbar-width: none;
   }
-  
+
   .inner {
     justify-content: flex-start;
     flex-wrap: nowrap;

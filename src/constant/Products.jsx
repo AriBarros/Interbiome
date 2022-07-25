@@ -7,18 +7,18 @@ export const Products = [
     description: "intibiome wellness daily intimate wash",
     tag: "wellness",
     image: BlueProductMobileImg,
-    color: '#389CD6',
+    color: "#389CD6",
   },
   {
     description: "intibiome active extra protection intimate wash",
     tag: "active",
     image: GreenProductMobileImg,
-    color: '#309D5F',
+    color: "#309D5F",
   },
   {
     description: "intibiome agecare dryness relief intimate wash",
     tag: "agecare",
     image: PinkProductMobileImg,
-    color: '#EE6381',
+    color: "#EE6381",
   },
 ];

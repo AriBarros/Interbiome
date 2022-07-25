@@ -12,7 +12,7 @@ function Carousel({ items }) {
               return (
                 <Card
                   key={index}
-                  cardText={items?.description} 
+                  cardText={items?.description}
                   tagText={items?.tag}
                   srcImage={items?.image}
                   colorText={items?.color}
