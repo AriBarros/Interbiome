@@ -17,4 +17,6 @@ Now you can see the desktop version and manipulate it to visualize mobile's vers
 
 Hope you enjoy it!
 
-![Home](docs/mobile.png)
+![Home](src/docs/mobile.png)
+![Home](src/docs/desktop.png)
+
