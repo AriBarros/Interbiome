@@ -17,11 +17,10 @@ Now you can see the desktop version and manipulate it to visualize mobile's vers
 
 Hope you enjoy it!
 
-<div style
-   ![Home](src/docs/mobile.png)
-   ![Home](src/docs/desktop.png)
-     
 <p align="center">
-  <img width="460" height="300" src="src/docs/mobile.png">
-  <img width="460" height="300" src="src/docs/desktop.png">
+  <img width="356" height="633" src="src/docs/mobile.png">
+</p>
+
+<p align="center">
+  <img width="1401" height="700" src="src/docs/desktop.png">
 </p>
