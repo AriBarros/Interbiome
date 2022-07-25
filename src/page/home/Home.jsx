@@ -4,6 +4,7 @@ import { getWindowSize } from "../../utils/getWindowSize";
 import Carousel from "../../components/Carousel/Carousel";
 import { Products } from "../../constant/Products";
 import { Misc } from "../../constant/Misc";
+import Footer from "../../components/Footer/Footer";
 
 import "./Home.css";
 import BannerMobileImg from "../../assets/img/img_banner_mobile.png";
@@ -97,6 +98,7 @@ function Home() {
           </button>
         </div>
       </div>
+      <Footer />
     </>
   );
 }

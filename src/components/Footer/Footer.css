@@ -1,0 +1,44 @@
+.footer-container {
+  width: auto;
+  height: 100%;
+  padding: 2rem;
+  background: #389cd6 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.footer-text {
+  padding: 42px 0;
+  text-align: center;
+  font: normal normal normal 16px/22px Trebuchet MS;
+  letter-spacing: 0.32px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.footer-text__spacing {
+  padding: 0 10px;
+  cursor: pointer;
+}
+
+.footer-logos {
+  padding: 10px 0;
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+}
+
+.footer-logos__spacing {
+    padding: 20px;
+}
+
+@media (max-width: 576px) {
+  .footer-container,
+  .footer-text,
+  .footer-logos {
+    display: flex;
+    flex-direction: column;
+  }
+  .footer-text__spacing {
+    padding: 0 0 12px 0;
+  }
+}
